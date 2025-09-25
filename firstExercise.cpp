@@ -13,13 +13,13 @@ void printInvoice(string plate, int hours, int rate) {
 
 int main(){
     string plate;
-    int HoursParking, ratePerHour;
+    int hoursParking, ratePerHour;
     cout<<"Dame la placa del vehiculo: ";
     cin >> plate;
     cout <<"Dame las horas de estacionamiento: ";
-    cin >> HoursParking;
+    cin >> hoursParking;
     cout <<"Dame la tarifa por hora: ";
     cin >> ratePerHour;
-    printInvoice(plate, HoursParking, ratePerHour);
+    printInvoice(plate, hoursParking, ratePerHour);
     return 0;
 }
