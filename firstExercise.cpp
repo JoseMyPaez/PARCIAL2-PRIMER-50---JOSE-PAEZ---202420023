@@ -20,8 +20,6 @@ int main(){
     cin >> HoursParking;
     cout <<"Dame la tarifa por hora: ";
     cin >> ratePerHour;
-    calculateTotal(HoursParking, ratePerHour);
     printInvoice(plate, HoursParking, ratePerHour);
-
     return 0;
 }
