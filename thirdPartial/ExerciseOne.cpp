@@ -12,7 +12,7 @@ Ejemplo de entrada:
 frase = "Programar en C++ es muy divertido";
 Ejemplo de salida:
 Cantidad de palabras: 5
-Palabra más larga: divertido
+Palabra más larga: divertido 
 */
 
 int wordCounter(string text){
