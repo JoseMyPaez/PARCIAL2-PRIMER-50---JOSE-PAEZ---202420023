@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspaces/PARCIAL2-PRIMER-50---JOSE-PAEZ---202420023",
-      "program": "/workspaces/PARCIAL2-PRIMER-50---JOSE-PAEZ---202420023/build/Debug/outDebug",
+      "cwd": "/workspaces/PARCIAL2-PRIMER-50---JOSE-PAEZ---202420023/thirdPartial",
+      "program": "/workspaces/PARCIAL2-PRIMER-50---JOSE-PAEZ---202420023/thirdPartial/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
